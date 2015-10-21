@@ -1,5 +1,5 @@
 # Author: David Thaller
-# License: Do whatever you want with this ;)
+# License: WTFPL
 #!/bin/sh
 
 echo "Image to 3d converter"
